@@ -1,5 +1,5 @@
 # moviepass-theaters
-Lists of theaters in the 100 most populous zip codes in the United States which support MoviePass.
+Lists of theaters in the [100 most populous zip codes](http://localistica.com/usa/zipcodes/most-populated-zipcodes/) in the United States which support MoviePass.
 
 Compiled in case they restrict access to the list again.
 
