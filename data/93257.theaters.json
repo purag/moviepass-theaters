@@ -1,0 +1,64 @@
+{
+  "theaters": [
+    {
+      "id": 1761,
+      "tribuneTheaterId": 5994,
+      "providerTheaterId": "",
+      "name": "Galaxy Porterville 9",
+      "address": "631 North Indiana",
+      "city": "Porterville",
+      "state": "CA",
+      "zip": "93257",
+      "distance": 10.45,
+      "lon": -119.0365,
+      "lat": 36.07827,
+      "theaterChainName": "Galaxy Theatres",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 3957,
+      "tribuneTheaterId": 7778,
+      "providerTheaterId": "",
+      "name": "Galaxy Tulare 10",
+      "address": "1575 Retherford Street",
+      "city": "Tulare",
+      "state": "CA",
+      "zip": "93274",
+      "distance": 29.68,
+      "lon": -119.335513,
+      "lat": 36.228023,
+      "theaterChainName": "Galaxy Theatres",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 2231,
+      "tribuneTheaterId": 6713,
+      "providerTheaterId": "",
+      "name": "Regal Visalia Stadium 10",
+      "address": "120 S. Bridge St.",
+      "city": "Visalia",
+      "state": "CA",
+      "zip": "93291",
+      "distance": 32.8,
+      "lon": -119.2889,
+      "lat": 36.329,
+      "theaterChainName": "Regal Cinemas",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 270,
+      "tribuneTheaterId": 8310,
+      "providerTheaterId": "",
+      "name": "Sequoia Mall 12",
+      "address": "3355 S. Mooney Blvd.",
+      "city": "Visalia",
+      "state": "CA",
+      "zip": "93277",
+      "distance": 32.31,
+      "lon": -119.316931,
+      "lat": 36.300506,
+      "theaterChainName": "Regal Cinemas",
+      "ticketType": "STANDARD"
+    }
+  ]
+}

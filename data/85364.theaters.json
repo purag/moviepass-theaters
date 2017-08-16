@@ -1,0 +1,19 @@
+{
+  "theaters": [
+    {
+      "id": 5620,
+      "tribuneTheaterId": 11081,
+      "providerTheaterId": "",
+      "name": "Regency Main Street Cinemas",
+      "address": "111 South Main Street",
+      "city": "Yuma",
+      "state": "AZ",
+      "zip": "85364",
+      "distance": 3.96,
+      "lon": -114.617786,
+      "lat": 32.724941,
+      "theaterChainName": "Regency Theatres",
+      "ticketType": "STANDARD"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "theaters": [
+    {
+      "id": 3046,
+      "tribuneTheaterId": 9090,
+      "providerTheaterId": "",
+      "name": "Cinemark Sunrise Mall",
+      "address": "2370 N. Expressway",
+      "city": "Brownsville",
+      "state": "TX",
+      "zip": "78521",
+      "distance": 2.79,
+      "lon": -97.502305,
+      "lat": 25.955021,
+      "theaterChainName": "Cinemark",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 1314,
+      "tribuneTheaterId": 4219,
+      "providerTheaterId": "",
+      "name": "Cinemark Movies 10 Brownsville",
+      "address": "3471 Old Hwy 77",
+      "city": "Brownsville",
+      "state": "TX",
+      "zip": "78520",
+      "distance": 2.79,
+      "lon": -97.507626,
+      "lat": 25.951755,
+      "theaterChainName": "Cinemark",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 1335,
+      "tribuneTheaterId": 7063,
+      "providerTheaterId": "",
+      "name": "Cinemark Movies 10 Harlingen",
+      "address": "629 N. 13th St.",
+      "city": "Harlingen",
+      "state": "TX",
+      "zip": "78550",
+      "distance": 22.99,
+      "lon": -97.682973,
+      "lat": 26.198381,
+      "theaterChainName": "Cinemark",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 2897,
+      "tribuneTheaterId": 4231,
+      "providerTheaterId": "",
+      "name": "Cinemark Harlingen",
+      "address": "401 S. Expressway 83",
+      "city": "Harlingen",
+      "state": "TX",
+      "zip": "78550",
+      "distance": 23.51,
+      "lon": -97.714484,
+      "lat": 26.187273,
+      "theaterChainName": "Cinemark",
+      "ticketType": "STANDARD"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "theaters": [
+    {
+      "id": 5342,
+      "tribuneTheaterId": 10779,
+      "providerTheaterId": "",
+      "name": "BLVD Cinemas",
+      "address": "742 W. Lancaster Blvd",
+      "city": "Lancaster",
+      "state": "CA",
+      "zip": "93534",
+      "distance": 13.84,
+      "lon": -118.1434,
+      "lat": 34.6975,
+      "theaterChainName": "Independent Chains",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 4286,
+      "tribuneTheaterId": 4176,
+      "providerTheaterId": "",
+      "name": "Cinemark Antelope Valley Mall",
+      "address": "1475 W. Ave. P",
+      "city": "Palmdale",
+      "state": "CA",
+      "zip": "93551",
+      "distance": 15.6,
+      "lon": -118.155684,
+      "lat": 34.607923,
+      "theaterChainName": "Cinemark",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 640,
+      "tribuneTheaterId": 8455,
+      "providerTheaterId": "",
+      "name": "Cinemark Movies 12 Lancaster",
+      "address": "44790 Valley Central Way",
+      "city": "Lancaster",
+      "state": "CA",
+      "zip": "93534",
+      "distance": 15.41,
+      "lon": -118.171174,
+      "lat": 34.696011,
+      "theaterChainName": "Cinemark",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 2499,
+      "tribuneTheaterId": 5215,
+      "providerTheaterId": "",
+      "name": "Cinemark 22 & IMAX Lancaster",
+      "address": "2600 W. Ave. I",
+      "city": "Lancaster",
+      "state": "CA",
+      "zip": "93536",
+      "distance": 15.8,
+      "lon": -118.177689,
+      "lat": 34.702548,
+      "theaterChainName": "Cinemark",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 4285,
+      "tribuneTheaterId": 4175,
+      "providerTheaterId": "",
+      "name": "Cinemark 16 Victorville and XD",
+      "address": "14470 Bear Valley Rd.",
+      "city": "Victorville",
+      "state": "CA",
+      "zip": "92392",
+      "distance": 34.73,
+      "lon": -117.34834,
+      "lat": 34.474689,
+      "theaterChainName": "Cinemark",
+      "ticketType": "STANDARD"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "theaters": [
+    {
+      "id": 2292,
+      "tribuneTheaterId": 7294,
+      "providerTheaterId": "",
+      "name": "Bakersfield Valley Plaza 16",
+      "address": "2000 Wible Road",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93304",
+      "distance": 13.7,
+      "lon": -119.0389,
+      "lat": 35.3374,
+      "theaterChainName": "Reading International, Inc",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 4787,
+      "tribuneTheaterId": 10037,
+      "providerTheaterId": "",
+      "name": "Maya Bakersfield 16 Cinemas",
+      "address": "1000 California Ave.",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93304",
+      "distance": 14.55,
+      "lon": -119.013305,
+      "lat": 35.369399,
+      "theaterChainName": "Independent Chains",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 90,
+      "tribuneTheaterId": 1899,
+      "providerTheaterId": "",
+      "name": "AMC Bakersfield 6",
+      "address": "4200 California Ave.",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93309",
+      "distance": 15.8,
+      "lon": -119.048307,
+      "lat": 35.369345,
+      "theaterChainName": "AMC Theatres",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 552,
+      "tribuneTheaterId": 5814,
+      "providerTheaterId": "",
+      "name": "Edwards Bakersfield Stadium 14",
+      "address": "9000 G. Ming Ave.",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93311",
+      "distance": 16.9,
+      "lon": -119.103878,
+      "lat": 35.342112,
+      "theaterChainName": "Edwards Theatres",
+      "ticketType": "STANDARD"
+    },
+    {
+      "id": 5152,
+      "tribuneTheaterId": 10558,
+      "providerTheaterId": "",
+      "name": "Fox Theatre Taft",
+      "address": "514 Center St",
+      "city": "Taft",
+      "state": "CA",
+      "zip": "93268",
+      "distance": 34.12,
+      "lon": -119.459748,
+      "lat": 35.141358,
+      "theaterChainName": "Independent Chains",
+      "ticketType": "STANDARD"
+    }
+  ]
+}
