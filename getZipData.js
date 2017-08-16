@@ -1,6 +1,12 @@
 const fs = require('fs');
 const { get } = require('request');
 
+if (process.argv.indexOf('--help') > -1) {
+  console.log('usage: node getZipData.js [<zip> [<zip>...]]');
+  console.log('If no <zip> is provided, fetch the data for the zips in the `zips` file.');
+  process.exit();
+}
+
 let total;
 let done = 0;
 
